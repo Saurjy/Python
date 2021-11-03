@@ -1,5 +1,4 @@
 word = input("Enter The String : ")
-#List = list(word)
 List = [char for char in word]
 Search_word = List[0]
 i = 0
